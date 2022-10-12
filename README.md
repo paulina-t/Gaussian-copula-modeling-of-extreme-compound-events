@@ -3,4 +3,7 @@ Gaussian copula modeling of extreme cold and weak-wind events over Europe condit
 
 Source code and results will be available when the article is published.
 
+# Preprint
+https://arxiv.org/abs/2209.12556
+
 
